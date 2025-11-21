@@ -35,3 +35,8 @@ body {
 .instagram-phone img {
     height: 50rem;
 }
+
+.profile-photo img {
+    height: 10rem;
+    border-radius: 100%;
+}
